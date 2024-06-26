@@ -1,6 +1,7 @@
 # CryptoStats
 Chrome extension source code for getting the latest cryptocurrency market stats.
 
+![image](https://github.com/z4r3i/crypto-state/assets/59662513/ce3b807a-c634-413b-8c3f-35501d707f3c)
 
 # installation
 
